@@ -44,3 +44,13 @@ This is an Child Care ChatBot :
 [Resourse 12](https://www.netmeds.com/)
 
 [Resourse 13](https://www.medplusmart.com/)
+
+[Resourse 14](https://www.indiamart.com/medidart/)
+
+[Resourse 15](https://dir.indiamart.com/indianexporters/baby.html)
+
+[Resourse 16](https://theultrasoft.com/medical/top-10-online-medical-store-india/)
+
+[Resourse 17](https://pillow.readthedocs.io/en/stable/installation.html)
+
+[Resourse 18](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
