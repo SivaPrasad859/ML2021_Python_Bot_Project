@@ -19,4 +19,4 @@ This is an Child Care ChatBot :
 [![ML2021_Python_Bot_Project](https://yt-embed.herokuapp.com/embed?v=zJnK-CKnmfU&t=1s)](https://www.youtube.com/watch?v=zJnK-CKnmfU&t=1s "ML2021_Python_Bot_Project")
 
 ## Refered Resourses
-"https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_Cartoon_Network_(India)"
+[Resourse 1](https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_Cartoon_Network_(India))
