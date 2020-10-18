@@ -20,15 +20,27 @@ This is an Child Care ChatBot :
 
 ## Refered Resourses
 [Resourse 1](https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_Cartoon_Network_(India))
+
 [Resourse 2](https://disneynow.com/all-shows)
+
 [Resourse 3](https://latestnews.fresherslive.com/articles/hungama-tv-schedule-today-145113)
+
 [Resourse 4](https://parenting.firstcry.com/articles/good-kid-friendly-tv-channels-that-parent-should-know-about/)
+
 [Resourse 5](https://www.doctorinsta.com/pediatrics.php)
+
 [Resourse 6](https://www.firstcry.com/health-and-safety)
+
 [Resourse 7](https://www.amazon.in/s?k=baby+care+products+combo&adgrpid=58071909519&ext_vrnc=hi&gclid=CjwKCAjwrKr8BRB_EiwA7eFapleuT4Uw7ooEp-_6HhT0aMMB4NHWyVCB5Q22_3sDCcWIPJbdYm6v1xoCuJ0QAvD_BwE&hvadid=294138541915&hvdev=c&hvlocphy=9299531&hvnetw=g&hvqmt=b&hvrand=1544092810991076609&hvtargid=kwd-706006018072&hydadcr=11207_1734841&tag=googinhydr1-21&ref=pd_sl_9q5o4i146_b)
+
 [Resourse 8](https://www.flipkart.com/baby-care/pr?sid=kyh)
+
 [Resourse 9](https://dir.indiamart.com/indianexporters/baby.html)
+
 [Resourse 10](https://www.shumee.in/collections/storage-bags-bibs-accessories-for-kids?gclid=CjwKCAjwrKr8BRB_EiwA7eFapoCyXOvmjDiKRm-Yx1U87fUuLkZNBQLqqZwndshOVV9FYhvazdLM4hoCfZ8QAvD_BwE)
+
 [Resourse 11](https://babysworld.in/)
+
 [Resourse 12](https://www.netmeds.com/)
+
 [Resourse 13](https://www.medplusmart.com/)
