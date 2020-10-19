@@ -13,7 +13,7 @@ This is an Child Care ChatBot :
 4) Finally by pressing 5 we will quit the bot by asking one more time, else it will continue till the user accepts his quit. 
 
 ## Block Diagram
-![Child_Care_Bot_Block_Diagram](https://user-images.githubusercontent.com/72602914/96372858-9a7b6500-1186-11eb-8b08-8676d7d33505.jpeg)
+![Child_Care_Bok_Block_Diagram](https://user-images.githubusercontent.com/72602914/96396665-57041380-11e5-11eb-8a73-16334f00d492.jpeg)
 
 ## YouTube Video 
 [![ML2021_Python_Bot_Project](https://yt-embed.herokuapp.com/embed?v=zJnK-CKnmfU&t=1s)](https://www.youtube.com/watch?v=zJnK-CKnmfU&t=1s "ML2021_Python_Bot_Project")
