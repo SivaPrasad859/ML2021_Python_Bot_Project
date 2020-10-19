@@ -9,7 +9,7 @@
 * datetime Module
 * Webbrowser Module
 
-## Objective of this Bot
+## Objective of the Bot
 This is an **Child Care ChatBot**. This bot helps the users to grow their children in a right way with few of the necessary activities like choosing the best **Cartoon Channels**, providing the Top most websites for the **Baby Care Products**, **consulting the best Doctors** all over **India** through **Online**, Buying **Legal and Trusty Medicines** all over the **India**. I hope this bot will helps the **Parents** to keep their child in a right way.
 
 ## Working of the Bot
