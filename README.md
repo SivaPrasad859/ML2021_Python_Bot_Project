@@ -6,14 +6,14 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
 
 ## Objective of this Bot
-This is an **Child Care ChatBot** 
+This is an **Child Care ChatBot**. This bot helps the users to grow their children in a right way with few of the necessary activities like choosing the best **Cartoon Channels**, providing the Top most websites for the **Baby Care Products**, **consulting the best Doctors** all over **India**, Buying **Legal and Trusty Medicines** all over the **India**. I hope this bot will helps the **Parents** to keep their child in a right way.
 
 ## Working of the Bot
 This is an **Child Care ChatBot** : 
-1) Firstly the bot used to greet the coustomer by asking the users name and there child name then it will greet the user according to the timestamp whether it is good morning/good evening.
-2) Secondly the Menu list will be visible to the user and asks the user to enter the desired number by giving some description.
-3) Thirdly It provied all the necessary baby care products, doctor care, medical products, cartoon channels and takes the user to their desired websites in google chrome.
-4) Finally by pressing 5 we will quit the bot by asking one more time, else it will continue till the user accepts his quit. 
+1) Firstly the bot used to **greet** the coustomer by asking the **users name** and there **child name** then it will greet the user according to the **timestamp** whether it is good morning/good evening.
+2) Secondly the **Menu** list will be visible to the user and asks the user to enter the desired number by giving some **description**.
+3) Thirdly It provied all the necessary **baby care products, doctor care, medical products, cartoon channels** and takes the user to their desired websites in **google chrome**.
+4) Finally by pressing **5** we will **quit** the bot by asking one more time, else it will continue till the user **accepts** his quit. 
 
 ## Block Diagram
 ![Child_Care_Bok_Block_Diagram](https://user-images.githubusercontent.com/72602914/96396665-57041380-11e5-11eb-8a73-16334f00d492.jpeg)
